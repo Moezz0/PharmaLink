@@ -20,6 +20,3 @@ Flutter (Android and iOS), Node.js with Firebase or Supabase, Google Maps API.
 
 ## Authors
 Mohamed Abdelmoez and Mohamed Elhaysam Omar, Section 4 / Section 3, Group 2.
-
-## My part
-<!-- Edit this section so it matches exactly what you did and can explain in the interview. -->
